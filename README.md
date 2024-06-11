@@ -1,2 +1,2 @@
 # word_to_excel
-python script that processes all docx files created into a single spreadsheet
+The script named makedocs_data.py contains code that generates a series of randomized invoices in the format of Word documents. I have successfully created a Python script (aggdocs.py) that consolidates all the generated docx files into a single spreadsheet. This spreadsheet features a row for each invoice, detailing the Invoice ID, total number of products purchased, subtotal, tax, and total amount.
